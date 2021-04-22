@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
        backgroundColor: Colors.teal,
        body: SafeArea(
          child: Column(
+           mainAxisAlignment: MainAxisAlignment.center,
            children: <Widget>[
              CircleAvatar(
                radius: 60.0,
@@ -26,11 +27,56 @@ class MyApp extends StatelessWidget {
              Text(' FLUTTER DEVELOPER ',
                style: TextStyle(
                  fontFamily: 'SourceSansPro',
-                 fontSize: 15,
-                 color: Colors.teal[50],
+                 fontSize: 20,
+                 color: Colors.teal[100],
                  fontWeight: FontWeight.bold
                ),
              ),
+             SizedBox(
+               height: 10,
+               child: Divider(
+                 color: Colors.teal[100],
+               ),
+               width: 150,
+             ),
+             Card(
+               color: Colors.white,
+               margin: EdgeInsets.symmetric(horizontal: 25,vertical: 10),
+               child: ListTile(
+               leading:Icon(
+               Icons.phone,
+               size:20,
+               color: Colors.teal,
+               ),
+               title: Text("+91 12343652",
+               style: TextStyle(
+                   color: Colors.teal[900],
+                   fontFamily: 'SourceSansPro',
+                   fontWeight: FontWeight.bold,
+                   fontSize: 20
+               ),
+               ),
+             ),
+             ),
+             Card(
+               color: Colors.white,
+               margin: EdgeInsets.symmetric(horizontal: 25,vertical: 10),
+               child: ListTile(
+                 leading:Icon(
+                   Icons.email,
+                   size:20,
+                   color: Colors.teal,
+                 ),
+                 title: Text("suhanii1214@gmail.com",
+                   style: TextStyle(
+                       color: Colors.teal[900],
+                       fontFamily: 'SourceSansPro',
+                       fontWeight: FontWeight.bold,
+                       fontSize: 20
+                   ),
+                 ),
+               ),
+             )
            ],
          ),
        ),
