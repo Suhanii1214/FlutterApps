@@ -3,6 +3,7 @@
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../FlutterApps/gen" />
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../FlutterApps/gen" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../FlutterApps/AndroidManifest.xml" />
@@ -17,9 +18,23 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/boss_ch1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/boss_ch1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/boss_ch1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dice_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dice_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dice_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_package/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_package/build" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

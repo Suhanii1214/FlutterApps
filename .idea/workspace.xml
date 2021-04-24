@@ -20,34 +20,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105d6e77-6e1a-470a-969c-81495fb6c390" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FlutterApps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/images/diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/images/i_am_rich_app_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i_am_rich/ios/Runner/Assets.xcassets/AppIcon.appiconset/_/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/kotlin/com/example/boss_ch1/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_ch1/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FlutterApps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FlutterApps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/card/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_Edited_API_30]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r50XEWk59WoWeOZYNz1G7cKtAP" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -61,8 +145,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/i_am_rich/images" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/boss_ch1" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -70,12 +154,16 @@
       <recent name="C:\Users\hp\Desktop\FlutterApps\i_am_rich\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\FlutterApps\boss_ch1" />
+      <recent name="C:\Users\hp\Desktop\FlutterApps\dice_app" />
+      <recent name="C:\Users\hp\Desktop\FlutterApps\card\images" />
+      <recent name="C:\Users\hp\Desktop\FlutterApps\card\fonts" />
       <recent name="C:\Users\hp\Desktop\FlutterApps\i_am_rich\images" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/i_am_rich/lib/main.dart" />
+      <option name="filePath" value="$PROJECT_DIR$/boss_ch1/lib/main.dart" />
       <method v="2" />
     </configuration>
   </component>
@@ -108,41 +196,49 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618497747894">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619277517574">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1618497747894" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1619277517574" />
     <state x="370" y="130" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1618497720475">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="370" y="130" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1618497720475" />
-    <state x="100" y="100" width="1080" height="480" key="AVDManager" timestamp="1618507975984">
+    <state x="100" y="100" width="1080" height="480" key="AVDManager" timestamp="1619277861666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="100" y="100" width="1080" height="480" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1618507975984" />
-    <state x="422" y="95" key="FileChooserDialogImpl" timestamp="1618250756493">
+    <state x="100" y="100" width="1080" height="480" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1619277861666" />
+    <state x="422" y="95" key="FileChooserDialogImpl" timestamp="1619276037672">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1618250756493" />
-    <state width="1220" height="160" key="GridCell.Tab.0.bottom" timestamp="1618510513839">
+    <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1619276037672" />
+    <state width="1236" height="63" key="GridCell.Tab.0.bottom" timestamp="1619278825297">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618510513839" />
-    <state width="1220" height="160" key="GridCell.Tab.0.center" timestamp="1618510513839">
+    <state width="1236" height="63" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1619278825297" />
+    <state width="1236" height="63" key="GridCell.Tab.0.center" timestamp="1619278825297">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618510513839" />
-    <state width="1220" height="160" key="GridCell.Tab.0.left" timestamp="1618510513839">
+    <state width="1236" height="63" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1619278825297" />
+    <state width="1236" height="63" key="GridCell.Tab.0.left" timestamp="1619278825296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618510513839" />
-    <state width="1220" height="160" key="GridCell.Tab.0.right" timestamp="1618510513839">
+    <state width="1236" height="63" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1619278825296" />
+    <state width="1236" height="63" key="GridCell.Tab.0.right" timestamp="1619278825297">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1220" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618510513839" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1618250984348">
+    <state width="1236" height="63" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619278825297" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1619101658919">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1618250984348" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1619101658919" />
+    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1619276054520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1619276054520" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1618681354603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1618681354603" />
   </component>
 </project>
