@@ -26,9 +26,19 @@ class QuizPage extends StatefulWidget {
 
 class _QuizPageState extends State<QuizPage> {
 
-  List<Icon> scoreKeeper = [
+  List<Icon> scoreKeeper = [];
 
+  List<String> questions = [
+    'The earth is square in shape',
+    'Approximately one quarter of human bones are in the feet',
+    'A slug\'s blood is green in colour'
   ];
+
+  List<bool> answers = [
+    false, true, false
+  ];
+
+  int questionNumber = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -42,7 +52,7 @@ class _QuizPageState extends State<QuizPage> {
             padding: EdgeInsets.all(10.0),
               child: Center(
                 child: Text(
-                 'This is where the question text will go.',
+                 questions[questionNumber],
                   textAlign: TextAlign.center,
                   style: TextStyle(
                   fontSize: 25.0,
@@ -64,11 +74,22 @@ class _QuizPageState extends State<QuizPage> {
                 ),
               ),
               onPressed: () {
+
+                bool correctAnswers = answers[questionNumber];
+                if(correctAnswers==true) {
+                  print('user is right');
+                }
+                else {
+                  print('user is wrong');
+                }
+
                 setState(() {
                   scoreKeeper.add(
                     Icon(Icons.check, color: Colors.green,),
                   );
+                  questionNumber++;
                 });
+                print(questionNumber);
               },
             ),
           )
@@ -85,11 +106,23 @@ class _QuizPageState extends State<QuizPage> {
                     )
                 ),
                 onPressed: () {
+
+                  bool correctAnswers = answers[questionNumber];
+                  if(correctAnswers==true) {
+                    print('user is right');
+                  }
+                  else {
+                    print('user is wrong');
+                  }
+
+
                   setState(() {
                     scoreKeeper.add(
                       Icon(Icons.close, color: Colors.red,),
                     );
+                    questionNumber++;
                   });
+                  print(questionNumber);
                 },
               ),
             )
