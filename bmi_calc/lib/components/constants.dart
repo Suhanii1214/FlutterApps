@@ -24,7 +24,7 @@ const bmiMsg = TextStyle(
   fontSize: 20,
 );
 
-const bottomContainerHeight = 80.0;
+const bottomContainerHeight = 60.0;
 const activeCardColor = Color(0xFF0A0E35);
 const bottomContainerColor = Color(0xFFEB1555);
 const inactiveCardColor = Color(0xFF111328);

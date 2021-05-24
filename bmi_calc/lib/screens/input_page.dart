@@ -1,11 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'main.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'reuse_card.dart';
-import 'icon_content.dart';
-import 'constants.dart';
-import 'results_page.dart';
+import 'package:bmi_calc/components/reuse_card.dart';
+import 'package:bmi_calc/components/bottom_button.dart';
+import 'package:bmi_calc/components/roundIcon_button.dart';
+import 'package:bmi_calc/components/constants.dart';
+import 'package:bmi_calc/components/icon_content.dart';
+import 'package:bmi_calc/screens/results_page.dart';
+
 
 enum Gender {
   male,female
@@ -202,58 +204,10 @@ class _InputPageState extends State<InputPage> {
   }
 }
 
-class BottomButton extends StatelessWidget {
-
-  BottomButton({@required this.onTap, @required this.bottomButtonTitle});
-
-  final Function onTap;
-  final String bottomButtonTitle;
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: onTap(),
-      child: Container(
-        child: Center(
-          child: Text(bottomButtonTitle,
-            style: TextStyle(
-              fontSize: 20.0,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-        ),
-        color: bottomContainerColor,
-        margin: EdgeInsets.only(top: 10.0),
-        padding: EdgeInsets.only(bottom: 5),
-        width: double.infinity,
-        height: 50.0,
-      ),
-    );
-  }
-}
 
 
-class RoundIconButton extends StatelessWidget {
-  @override
-  RoundIconButton({this.icon,this.onPressed});
 
-  final IconData icon;
-  final Function onPressed;
 
-  Widget build(BuildContext context) {
-    return RawMaterialButton(
-      child: Icon(icon),
-      onPressed: onPressed,
-      elevation: 6.0,
-      constraints: BoxConstraints.tightFor(
-        width: 56.0,
-        height: 56.0,
-      ),
-      shape: CircleBorder(),
-      fillColor: Color(0xFF4C4F5E),
-    );
-  }
-}
 
 
 
